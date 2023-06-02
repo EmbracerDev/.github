@@ -1,1 +1,1 @@
-Welcome to the Embracer Discord organization.
+Welcome to the Embracer Github organization.
